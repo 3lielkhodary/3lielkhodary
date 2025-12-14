@@ -73,7 +73,7 @@ My name is Ali Elkhodary and I'm a Machine Learning & AI Engineer from Cairo, Eg
 <h2 align="left">📫 Connect with me</h2>
 
 <p align="left">
-💼 LinkedIn: <a href="[https://www.linkedin.com/in/ali-elsayed-63](https://www.linkedin.com/in/ali-elsayed-637234327/)">linkedin.com/in/ali-elsayed-63</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/ali-elsayed-637234327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin.com/in/ali-elsayed-63</a><br>
 📧 Email: alielkhodary52@gmail.com
 </p>
 
